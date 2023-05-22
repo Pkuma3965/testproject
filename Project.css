@@ -1,0 +1,20 @@
+.btn{
+    colour:yellow;
+    background-color: royalblue;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    margin-left: 400px;
+    margin-top: 230px;
+}
+h1{
+    text-align: center;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40PX;
+
+}
+.btn:hover{
+    background-color: red;
+    transition: 0.3;
+}
